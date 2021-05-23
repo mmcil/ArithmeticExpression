@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/UserT/CLionProjects/ArithmeticExpression/main.cpp
+iostream
+-
+mcil.hpp
+C:/Users/UserT/CLionProjects/ArithmeticExpression/mcil.hpp
+
+C:/Users/UserT/CLionProjects/ArithmeticExpression/mcil.hpp
+string
+-
+sstream
+-
+cmath
+-
+list
+-
+array
+-
+set
+-
+vector
+-
+unordered_set
+-
+unordered_map
+-
+iostream
+-
+deque
+-
+

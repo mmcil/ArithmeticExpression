@@ -1,0 +1,3 @@
+C:/Users/UserT/CLionProjects/ArithmeticExpression/cmake-build-debug/CMakeFiles/ArithmeticExpression.dir
+C:/Users/UserT/CLionProjects/ArithmeticExpression/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/UserT/CLionProjects/ArithmeticExpression/cmake-build-debug/CMakeFiles/rebuild_cache.dir
